@@ -354,6 +354,7 @@
 "Assets/02.Scripts/GameManager.cs"
 "Assets/02.Scripts/PlayerController.cs"
 "Assets/02.Scripts/Rotator.cs"
+"Assets/02.Scripts/TestPlayerController.cs"
 -langversion:9.0
 
 /deterministic
