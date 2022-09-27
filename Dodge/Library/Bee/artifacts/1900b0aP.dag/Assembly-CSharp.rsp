@@ -310,6 +310,10 @@
 "Assets/02.Scripts/GameManager.cs"
 "Assets/02.Scripts/PlayerController.cs"
 "Assets/02.Scripts/Rotator.cs"
+"Assets/02.Scripts/TestBullet.cs"
+"Assets/02.Scripts/TestBulletSpawer.cs"
+"Assets/02.Scripts/TestPlayerController.cs"
+"Assets/02.Scripts/TestRotator.cs"
 -langversion:9.0
 
 /deterministic
