@@ -2,12 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TestPlayerController : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     public Rigidbody playerRigidbody;//이동에 사용할 리지드바디 컴포넌트
     public float speed = 8f;//이동 속력
-
-    // Start is called before the first frame update
     void Start()
     {
         //게임 오브젝트에서 Rigidbody 컴포던트를 찾아
@@ -41,4 +39,4 @@ public class TestPlayerController : MonoBehaviour
         //가져온 GameManagre 오브젝트의 EndGame()메서드 실행
         gameManager.EndGame();
     }
-    }
+}
