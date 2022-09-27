@@ -961,4 +961,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/01.Scenes/TestScene.unity
-  playerPath: C:/Users/301-22/OneDrive/Desktop/TestBeild/Dodge.exe
+  playerPath: C:/Users/301-22/OneDrive/Desktop/TestBeild/Dodge/Dodge.exe
