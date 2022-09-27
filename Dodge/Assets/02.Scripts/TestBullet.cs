@@ -27,7 +27,7 @@ public class TestBullet : MonoBehaviour
         if (other.tag == "Player")
         {
             //상대방 게임 오브젝트에서 PlayerController 컴포넌트 가저오기
-            PlayerController playerController = other.GetComponent<PlayerController>();
+            TestPlayerController playerController = other.GetComponent<TestPlayerController>();
 
             //상대방으로부터 PlayerController 컴포넌트 가져오는 데 성공 했다면
             if (playerController != null)
